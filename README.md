@@ -1,4 +1,4 @@
-# 🥦 Online-Organic-Store
+#   Online-Organic-Store
 Online organic store is a web-application which reduces the manual work for managing details of the customers, stocks and order for organic vegetables and fruits. 
 ## 🛒 Online Organic Store
 An e-commerce web application for buying organic vegetables and fruits online — built with MongoDB, Node.js, Bootstrap, HTML, and CSS.
